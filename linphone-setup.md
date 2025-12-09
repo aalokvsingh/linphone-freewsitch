@@ -119,7 +119,7 @@ multiple proxy entries exist
 
 Fix:
 ```
-linphonecsh unregister --host 10.58.181.138
+linphonecsh unregister --host <freeswitch>
 rm ~/.linphonerc
 ```
 
